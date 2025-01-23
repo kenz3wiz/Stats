@@ -1,0 +1,1 @@
+This dataset contains a list of shelter animals that are ready to be adopted from the Montgomery County Animal Services and Adoption Center at 7315 Muncaster Mill Rd., Derwood MD 20855. The 'How To Adopt' details are posted on https://www.montgomerycountymd.gov/animalservices/adoption/howtoadopt.html. Update Frequency : Every two hours
