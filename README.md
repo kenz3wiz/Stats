@@ -1,5 +1,9 @@
 Codebook for Animal Adoptions in Montgomery County 
 
+Why Care? 
+
+We should care about this data because by giving descriptive variables we allow users to easily search for the animals they want because the data is constantly being updated online. The ease of access to the animals online means a quicker turnaround time between the animals entering the shelter and them going to their forever homes.  
+
 Source: Data.gov, data.montgomerycountymd.gov 
 
 Principal Investigator: Montgomery County, MD 
