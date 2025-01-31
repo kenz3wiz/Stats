@@ -1,4 +1,5 @@
 Codebook for Animal Adoptions in Montgomery County 
+Prepared by: Mackenzie Wisner 
 
 Why Care? 
 
